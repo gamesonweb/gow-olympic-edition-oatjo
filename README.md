@@ -5,7 +5,8 @@
 ## Dépot github du projet
 - [Dépot Github Server](https://github.com/Annadip5/serverOAtJO)
 - [Dépot Github Client](https://github.com/Annadip5/clientOAtJO)
-
+## Vidéo du jeu
+- [Vidéo du jeu](https://drive.google.com/file/d/1-A4DQBW5IR50XsfCS8A872_pn3FNtGDS/view?usp=sharing)
 ## Le Groupe
 - Nous avons travaillé en binôme. Étant frère et sœur, nous avons pu collaborer de manière fluide et efficace grâce à notre bonne entente et à notre compréhension mutuelle. Cette proximité nous a permis de nous soutenir mutuellement tout au long du projet et de partager nos idées plus librement. 
  
