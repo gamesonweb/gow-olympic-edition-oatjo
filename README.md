@@ -30,14 +30,14 @@ Choisissez donc un pseudo et un pays pour participer à différents modes de jeu
 	- AZERTY :
 		- Z -> Avancer
 		- S-> Reculer
-    - D -> Tourner la caméra à droite
-    - Q -> Tourner la caméra à gauche
+    		- D -> Tourner la caméra à droite
+    		- Q -> Tourner la caméra à gauche
     - ESPACE -> Sauter
 	- QWERTY :
-	  - W -> Avancer
+	  	- W -> Avancer
 		- S-> Reculer
-    - D -> Tourner la caméra à droite
-    - A -> Tourner la caméra à gauche
+    		- D -> Tourner la caméra à droite
+    		- A -> Tourner la caméra à gauche
     - ESPACE -> Sauter
 
 
