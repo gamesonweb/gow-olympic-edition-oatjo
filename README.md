@@ -26,18 +26,19 @@ Choisissez donc un pseudo et un pays pour participer à différents modes de jeu
   - Deux équipes de 3 joueurs maximum s'affrontent. Marquez le plus de buts possibles pour décrocher la victoire !
 - La course :
   - Affrontez six joueurs sur une course. Attention aux obstacles ! Des boosts et des décélérateurs sont également présents sur la piste !
-- Mode d’emploi : 
+- Mode d’emploi :
+  	- P -> stopper / lancer la musique de fond
 	- AZERTY :
 		- Z -> Avancer
 		- S-> Reculer
     		- D -> Tourner la caméra à droite
     		- Q -> Tourner la caméra à gauche
-    - ESPACE -> Sauter
+    		- ESPACE -> Sauter
 	- QWERTY :
 	  	- W -> Avancer
 		- S-> Reculer
     		- D -> Tourner la caméra à droite
     		- A -> Tourner la caméra à gauche
-    - ESPACE -> Sauter
+    		- ESPACE -> Sauter
 
 
