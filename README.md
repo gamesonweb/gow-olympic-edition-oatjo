@@ -3,6 +3,7 @@
 - DI PLACIDO Anna / M1 informatique Alternance Sophia Antipolis
 - DI PLACIDO Bence / L2 informatique Valrose Nice
 ## Pour jouer
+Pour l'instant il y a des problèmes de chargements des images
 - [PLAY](https://clientoatjo.onrender.com/)
 ## Dépot github du projet
 - [Dépot Github Server](https://github.com/Annadip5/serverOAtJO)
